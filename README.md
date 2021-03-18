@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Najmus Shakib</h1>
-<h3 align="center">Full stack JavaScript developer</h3>
+<h3 align="center">Full Stack JavaScript Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=najmusshakib350&label=Profile%20views&color=0e75b6&style=flat" alt="najmusshakib350" /> </p>
 

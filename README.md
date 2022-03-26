@@ -1,4 +1,4 @@
-![I am a Full-stack web developer](https://scontent.fdac5-1.fna.fbcdn.net/v/t1.6435-9/s960x960/118579176_642651733298282_5456114337114060052_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=e3f864&_nc_ohc=jijjCzWCc44AX-XULnX&_nc_ht=scontent.fdac5-1.fna&oh=00_AT87PNlkilp0ixWfMbE36cpXT9I2yYKZT5iVlWbFVt9INw&oe=61EA8B3E)
+![I am a Full-stack web developer]
 ### Hi there 👋, My name is Najmus Shakib
 #### I am a Full-stack web developer
 

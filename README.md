@@ -1,4 +1,3 @@
-![I am a Full-stack web developer]
 ### Hi there 👋, My name is Najmus Shakib
 #### I am a Full-stack web developer
 

@@ -1,9 +1,9 @@
 ### Hi there 👋, My name is Najmus Shakib
 #### I am a Full-stack web developer
 
-I am an expert in web development in creating a wonderful and responsive website. I have skilled with HTML, CSS,Bootstrap,JavaScript,JQuery,React.js,Node.js,Express.js,MongoDB,MySQL, WordPress, PSD to HTML, PSD to WordPress.
+I have completed my BSc in CSE degree from the Department of Computer Science and Engineering of Daffodil International University. My interests are in Web Development and I love to create beautiful and performant products with delightful user experiences. I have two years of experience as a Freelancer. I have skilled with JavaScript, ReactJS, Redux, Babel, Webpack, NextJS, NodeJS, ExpressJS, and MongoDB. However, I can assure you that I am a quick learner, adaptive, and energetic person.
 
-Skills: HTML,CSS,JavaScript,React.js,Node.js,Express.js,MongoDB
+Skills: HTML, CSS, JavaScript, ReactJS , NodeJS, ExpressJS, MongoDB
 
 - 🔭 I’m currently working on fiverr 
 - 🌱 I’m currently learning JavaScript 

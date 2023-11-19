@@ -1,12 +1,11 @@
 ### Hi there 👋, My name is Najmus Shakib
-#### I am a Full-stack web developer
+#### I'm a MERN Stack Developer from Bangladesh
 
-I have completed my BSc in CSE degree from the Department of Computer Science and Engineering of Daffodil International University. My interests are in Web Development and I love to create beautiful and performant products with delightful user experiences. I have two years of experience as a Freelancer. I have skilled with JavaScript, ReactJS, Redux, Babel, Webpack, NextJS, NodeJS, ExpressJS, and MongoDB. However, I can assure you that I am a quick learner, adaptive, and energetic person.
+I am a highly motivated, ambitious, and creative person who can delight you by creating amazing websites.
 
-Skills: HTML, CSS, JavaScript, ReactJS , NodeJS, ExpressJS, MongoDB
+Skills: HTML, CSS, JavaScript, TypeScript, jQuery, ReactJS, NodeJS, ExpressJS, NextJS, MongoDB, MySQL, SQLite
 
-- 🔭 I’m currently working on fiverr 
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I’m currently learning JavaScript. 
 - 👯 I’m looking to collaborate on opensource and group projects 
 
 

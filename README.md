@@ -1,12 +1,8 @@
 ### Hi there 👋, My name is Najmus Shakib
-#### I'm a MERN Stack Developer from Bangladesh
 
-I am a highly motivated, ambitious, and creative person who can delight you by creating amazing websites.
+Innovative Full Stack Software Engineer with 3+ years of experience building scalable web applications. Skilled in developing databases, designing user interfaces, writing and testing clean code, troubleshooting complex issues, and implementing new features based on user feedback. Passionate about optimizing performance and delivering solutions that drive real impact. 
 
-Skills: HTML, CSS, JavaScript, TypeScript, jQuery, ReactJS, NodeJS, ExpressJS, NextJS, MongoDB, MySQL, SQLite
-
-- 🌱 I’m currently learning JavaScript. 
-- 👯 I’m looking to collaborate on opensource and group projects 
+Skills: JavaScript, TypeScript, GraphQL, Bootstrap, Material UI, Tailwind CSS, ReactJS, NextJS, NodeJS, ExpressJS, NestJS, MySQL, PostgreSQL, MongoDB, Git, Docker, Webpack, Postman, Socket.IO, AWS S3
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/najmusshakib350)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/najmus-shakib-581508207/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/najmus.shakib.5876)  

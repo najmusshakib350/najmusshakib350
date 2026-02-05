@@ -1,6 +1,7 @@
-### Hi there 👋, My name is Najmus Shakib
+### Hi there 👋, I'm Najmus Shakib  
 
-Innovative Full Stack Software Engineer with 3+ years of experience building scalable web applications. Skilled in developing databases, designing user interfaces, writing and testing clean code, troubleshooting complex issues, and implementing new features based on user feedback. Passionate about optimizing performance and delivering solutions that drive real impact. 
+I'm an innovative Full Stack Software Engineer with 3+ years of experience building scalable web applications. I enjoy working on databases, designing clean user interfaces, writing maintainable code, and solving complex problems. Passionate about performance optimization and building solutions that create real-world impact.
+
 
 Skills: JavaScript, TypeScript, GraphQL, Bootstrap, Material UI, Tailwind CSS, ReactJS, NextJS, NodeJS, ExpressJS, NestJS, MySQL, PostgreSQL, MongoDB, Git, Docker, Webpack, Postman, Socket.IO, AWS S3
 

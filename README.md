@@ -1,11 +1,86 @@
-### Hi there 👋, I'm Najmus Shakib  
+<h1 align="center">Hi 👋, I'm Najmus Shakib</h1>
+<h3 align="center">Full Stack Software Engineer | MERN | Next.js | NestJS</h3>
 
-I'm an innovative Full Stack Software Engineer with 3+ years of experience building scalable web applications. I enjoy working on databases, designing clean user interfaces, writing maintainable code, and solving complex problems. Passionate about performance optimization and building solutions that create real-world impact.
+<p align="center">
+  🚀 Passionate about building scalable web applications & high-performance systems  
+</p>
 
+---
 
-Skills: JavaScript, TypeScript, GraphQL, Bootstrap, Material UI, Tailwind CSS, ReactJS, NextJS, NodeJS, ExpressJS, NestJS, MySQL, PostgreSQL, MongoDB, Git, Docker, Webpack, Postman, Socket.IO, AWS S3
+### 👨‍💻 About Me
 
+- 💼 Full Stack Software Engineer with **3+ years of experience**
+- 🔭 Currently working with **Next.js, TypeScript, NestJS, PostgreSQL**
+- 🌍 Based in **Dhaka, Bangladesh**
+- 💡 Interested in **System Design, Performance Optimization & Scalable Architecture**
+- 📫 Reach me at: **shakibn350@gmail.com**
+- 🌐 Portfolio: **https://najmus-shakib.me**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/najmusshakib350)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/najmus-shakib-581508207/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/najmus.shakib.5876)  
+---
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+### 🛠️ Tech Stack
+
+**Frontend**  
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) 
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js) 
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)  
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
+![Material UI](https://img.shields.io/badge/-MaterialUI-black?style=flat-square&logo=mui)
+
+**Backend**  
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![NestJS](https://img.shields.io/badge/-NestJS-black?style=flat-square&logo=nestjs)
+![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql)
+
+**Databases & Cache**  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis)
+
+**DevOps & Tools**  
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![AWS S3](https://img.shields.io/badge/-AWS%20S3-black?style=flat-square&logo=amazon-aws)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![CI/CD](https://img.shields.io/badge/-CI/CD-black?style=flat-square&logo=githubactions)
+![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
+
+---
+
+### 📌 Featured Projects
+
+#### 🔐 Blockchain Based Secure E-Voting System  
+- 🛠 Ethereum, Solidity, MetaMask, Ganache  
+- 🔒 Secure, transparent & tamper-proof voting system  
+- ⚡ High-load election simulation tested  
+👉 Repo: *(Add your GitHub repo link here)*
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=najmusshakib&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=najmusshakib&theme=radical" width="48%" />
+</p>
+
+---
+
+### 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/najmus-shakib-581508207/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="https://github.com/najmusshakib350" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github" />
+  </a>
+  <a href="https://najmus-shakib.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=vercel" />
+  </a>
+</p>
+
+---
+
+⭐️ From [Najmus Shakib](https://github.com/najmusshakib350)

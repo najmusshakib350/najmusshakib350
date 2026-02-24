@@ -14,7 +14,7 @@
 - 🌍 Based in **Dhaka, Bangladesh**
 - 💡 Interested in **System Design, Performance Optimization & Scalable Architecture**
 - 📫 Reach me at: **shakibn350@gmail.com**
-- 🌐 Portfolio: **https://najmus-shakib.me**
+- 🌐 Portfolio: **https://najmus-shakib.netlify.app/**
 
 ---
 

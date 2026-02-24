@@ -9,12 +9,12 @@
 
 ### 👨‍💻 About Me
 
- 💼 Full Stack Software Engineer with **3+ years of experience**
- 🔭 Currently working with **Next.js, TypeScript, NestJS, PostgreSQL**
- 🌍 Based in **Dhaka, Bangladesh**
- 💡 Actively learning **System Design, Performance Optimization & Scalable Architecture**
- 📫 Reach me at: **shakibn350@gmail.com**
- 🌐 Portfolio: **https://najmus-shakib.netlify.app/**
+  💼 Full Stack Software Engineer with **3+ years of experience**
+  🔭 Currently working with **Next.js, TypeScript, NestJS, PostgreSQL**
+  🌍 Based in **Dhaka, Bangladesh**
+  💡 Actively learning **System Design, Performance Optimization & Scalable Architecture**
+  📫 Reach me at: **shakibn350@gmail.com**
+  🌐 Portfolio: **https://najmus-shakib.netlify.app/**
 
 ---
 

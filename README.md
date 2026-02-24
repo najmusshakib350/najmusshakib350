@@ -9,12 +9,12 @@
 
 ### 👨‍💻 About Me
 
-- 💼 Full Stack Software Engineer with **3+ years of experience**
-- 🔭 Currently working with **Next.js, TypeScript, NestJS, PostgreSQL**
-- 🌍 Based in **Dhaka, Bangladesh**
-- 💡 Actively learning **System Design, Performance Optimization & Scalable Architecture**
-- 📫 Reach me at: **shakibn350@gmail.com**
-- 🌐 Portfolio: **https://najmus-shakib.netlify.app/**
+ 💼 Full Stack Software Engineer with **3+ years of experience**
+ 🔭 Currently working with **Next.js, TypeScript, NestJS, PostgreSQL**
+ 🌍 Based in **Dhaka, Bangladesh**
+ 💡 Actively learning **System Design, Performance Optimization & Scalable Architecture**
+ 📫 Reach me at: **shakibn350@gmail.com**
+ 🌐 Portfolio: **https://najmus-shakib.netlify.app/**
 
 ---
 
@@ -52,9 +52,9 @@
 ### 📌 Featured Projects
 
 #### 🔐 Blockchain Based Secure E-Voting System  
-- 🛠 Ethereum, Solidity, MetaMask, Ganache  
-- 🔒 Secure, transparent & tamper-proof voting system  
-- ⚡ High-load election simulation tested  
+ 🛠 Ethereum, Solidity, MetaMask, Ganache  
+ 🔒 Secure, transparent & tamper-proof voting system  
+ ⚡ High-load election simulation tested  
 👉 Demo Video: *(https://drive.google.com/file/d/1JFl6wnBNnMgr9G6y5ofYTO2Y3HXoXCEq/view)*
 
 ---

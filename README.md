@@ -26,6 +26,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)  
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
 ![Material UI](https://img.shields.io/badge/-MaterialUI-black?style=flat-square&logo=mui)
+![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-black?style=flat-square&logo=tailwindcss)
 
 **Backend**  
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
@@ -54,7 +55,7 @@
 - 🛠 Ethereum, Solidity, MetaMask, Ganache  
 - 🔒 Secure, transparent & tamper-proof voting system  
 - ⚡ High-load election simulation tested  
-👉 Repo: *(Add your GitHub repo link here)*
+👉 Demo Video: *(https://drive.google.com/file/d/1JFl6wnBNnMgr9G6y5ofYTO2Y3HXoXCEq/view)*
 
 ---
 

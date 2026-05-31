@@ -42,7 +42,7 @@
 
 **DevOps & Tools**  
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![AWS (EC2, S3, Nginx, Deployment)](https://img.shields.io/badge/-AWS%20S3-black?style=flat-square&logo=amazon-aws)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![CI/CD](https://img.shields.io/badge/-CI/CD-black?style=flat-square&logo=githubactions)
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
